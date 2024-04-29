@@ -4,7 +4,7 @@
 This repository contains the implementation of several machine learning models to predict whether a customer of "On the Road" car insurance will make a claim during the policy period. The project focuses on leveraging customer data to build models with high predictive accuracy, with the goal of simplifying and optimizing insurance claim predictions.
 
 ## Dataset
-The dataset used in this project is stored in dataset. It includes various features related to the customer's profile such as age, driving experience, income level, and past driving records. The target variable is outcome, indicating whether a claim was made.
+The dataset used in this project is stored in dataset.csv . It includes various features related to the customer's profile such as age, driving experience, income level, and past driving records. The target variable is outcome, indicating whether a claim was made.
 
 ## Features
 age: Age group of the client (categorical)
@@ -25,7 +25,7 @@ Decision Tree
 Random Forest
 
 ## Results
-The models' performances are summarized as follows:
+The models performances are summarized as follows:
 
 - Logistic Regression: Accuracy = 0.7307
 
