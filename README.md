@@ -27,7 +27,10 @@ Random Forest
 ## Results
 The models' performances are summarized as follows:
 
-Logistic Regression: Accuracy = 0.7307
-Decision Tree: Accuracy = 0.8302
-Random Forest: Best Accuracy = 0.8483
+- Logistic Regression: Accuracy = 0.7307
+
+- Decision Tree: Accuracy = 0.8302
+
+- Random Forest: Best Accuracy = 0.8483
+
 The Random Forest model, with feature selection and hyperparameter tuning, provided the best results.
